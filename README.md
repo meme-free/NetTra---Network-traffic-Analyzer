@@ -22,8 +22,8 @@ Requirements:
 
 ```bash
 # Clone repository
-git clone https://gitlab.com/locdt3543/nettra-network-traffic-analyzer.git
-cd nettra-network-traffic-analyzer
+git clone https://github.com/meme-free/NetTra---Network-traffic-Analyzer.git
+cd NetTra---Network-traffic-Analyzer
 
 # Install dependencies
 npm install
