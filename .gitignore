@@ -1,0 +1,17 @@
+node_modules/
+dist/
+target/
+*.exe
+*.msi
+*.dmg
+*.app
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

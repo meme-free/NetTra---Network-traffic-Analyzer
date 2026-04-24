@@ -1,0 +1,12 @@
+# Build artifacts
+target/
+*.exe
+*.msi
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

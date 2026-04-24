@@ -1,0 +1,6 @@
+[env]
+LIB = "D:\\npcap\\npcap-sdk-1.16\\Lib\\x64"
+INCLUDE = "D:\\npcap\\npcap-sdk-1.16\\Include"
+
+[target.x86_64-pc-windows-msvc]
+rustflags = ["-L", "D:\\npcap\\npcap-sdk-1.16\\Lib\\x64"]
